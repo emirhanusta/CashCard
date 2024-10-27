@@ -5,7 +5,7 @@ CashCard is a minimalistic application designed to demonstrate and practice the 
 
 ## Technologies
 - **Java 17** 
-- **Spring Boot 3.1.4**
+- **Spring Boot 3.3.5**
 - **Spring Data JDBC** 
 - **H2 Database** 
 - **JUnit** 
